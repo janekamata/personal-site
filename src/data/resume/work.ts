@@ -13,129 +13,83 @@ export interface Position {
 
 const work: Position[] = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
-    startDate: '2024-07-01',
+    name: 'Code4Community',
+    position: 'Software Developer',
+    url: 'https://www.c4cneu.com/',
+    startDate: '2024-09-03',
     summary:
-      'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+      'Code4Community is a nonprofit organization that builds software solutions for other nonprofits to help them better serve their communities. As a software developer, I work on a team to design, develop, and deploy full-stack applications that address the unique needs of our nonprofit partners.',
     highlights: [
-      'Built and scaled engineering team, emphasizing diversity and open-source contribution',
-      'Established key partnerships with AI research institutions and tech companies',
+      'Develop custom software solutions for nonprofits to improve operational efficiency',
+      'Collaborate with UI/UX designers to translate Figma wireframes into fully responsive, full-stack applications',
     ],
   },
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
-    endDate: '2024-07-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'Northeastern University',
+    position: 'Teaching Assistant',
+    url: 'https://www.northeastern.edu/',
+    startDate: '2023-09-03',
+    summary:
+      'As an undergraduate teaching assistant, I worked for a variety of courses ranging from Data Science, Information Analytics, Information Visualization, Program Design and Implementation, and Object-Oriented Design. Depending on the course, responsibilities range from creating assignments, grading, one-on-one office hours, guest lecturing, and reviewing course content.',
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Support 150+ students in using Tableau, Python, SQL, and Excel to build analytics models and data visualizations',
+      'Deliver lectures, hands-on tutorials, and one-on-one sessions, helping students create insight-driven dashboards',
+      'Troubleshoot data pipeline and visualization issues, reinforcing best practices in BI and problem-solving skills',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-VC fund that makes angel investments. I consult with and invest
-    in startups in the Bay Area. I work part-time on this.`,
+    name: 'Northeastern University',
+    position: 'Learning Experience Design Assistant',
+    url: 'https://www.northeastern.edu/',
+    startDate: '2022-09-03',
+    endDate: '2023-12-20',
+    summary: `As a Learning Experience Design Assistant at Northeastern University's D'Amore-McKim School of Business Learning Design and Technology Group, I collaborated with faculty members to enhance course materials and develop engaging learning experiences. My role involved applying instructional design principles to create accessible and inclusive content that supports diverse learning needs.`,
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise startups on web, mobile, and ML engineering.',
-      'Sourced and analyzed over 1,000 startup deals.',
-      'Invested in over 60 startups.',
+      'Transformed course materials into engaging content for Instructure Canvas LMS and Articulate, adhering to Universal Design for Learning (UDL) principles',
+      'Supported Diversity, Equity, and Inclusion (DEI) initiatives through course content accessibility',
+      'Facilitated data entry and collection for support tickets, streamlining operational processes',
     ],
   },
   {
-    name: 'Arthena',
-    position: 'Co-founder & CTO',
-    url: 'https://arthena.com',
-    startDate: '2014-01-01',
-    endDate: '2022-01-01',
-    summary: `Arthena is a Series A Company funded by <a href='https://www.anthemis.com/'>Anthemis</a>,
-    <a href='https://foundationcapital.com'>Foundation Capital</a>, and <a href='https://ycombinator.com'>YCombinator</a>.
-    We build quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were profitable and the #1 art investment platform in the world.`,
+    name: 'Bain Capital',
+    position: 'Business System Analyst Co-op (Private Markets Analytics)',
+    url: 'https://www.baincapital.com/',
+    startDate: '2025-01-14',
+    endDate: '2025-06-27',
+    summary: `Bain Capital is a multi-asset private investment firm with over $160 billion in assets under management. As a Business System Analyst Co-op on the Private Markets Analytics team, I collaborated across functions to design and implement business intelligence solutions that drive data-informed decision-making for teams across shared services and business units.`,
     highlights: [
-      'Built production models for fine art valuation, resulting in $1.5B in cumulative art valuations (70k+ artworks).',
-      'Built computer vision models for artwork identification.',
-      'Designed and implemented CRM, data management, and accounting systems. Performed accounting and tax filings.',
-      'Set up company structure, worked with lawyers, and raised multiple fundraising rounds.',
-      'Managed a team of 15 engineers, data scientists, and analysts.',
+      'Acted as an internal BI consultant on projects serving 1,000+ stakeholders across business units, translating business requirements into scalable data solutions and collaborating with clients on iterative development',
+      'Balanced dual team responsibilities while delivering end-to-end BI solutions in an Agile environment',
+      'Designed ad-hoc interactive Tableau dashboards integrating sentiment and geospatial analysis for deal diligence',
+      'Optimized Power BI model reliability by 40% by enhancing data pipelines with API and data lake integrations',
+      'Presented Tableau Cloud evaluation and demo to leadership, comparing Pulse/Agent, Server, and AI capabilities',
+      '(Continued responsibilities from 2024 co-op with expanded scope and leadership roles)'
     ],
   },
   {
-    name: 'Matroid',
-    position: 'Co-founder',
-    url: 'https://matroid.com',
-    startDate: '2016-01-01',
-    endDate: '2016-12-01',
-    summary: `Matroid is a Series A company funded by <a href='https://www.nea.com'>NEA</a> 
-    and <a href='https://www.accel.com'>Accel</a> building computer vision infrastructure.
-    I played a crucial role in the company's early development, contributing to both the
-    technical foundation and strategic direction.`,
+    name: 'Bain Capital',
+    position: 'Business System Analyst Co-op (Real Estate)',
+    url: 'https://www.baincapital.com/',
+    startDate: '2024-01-9',
+    endDate: '2024-08-29',
+    summary: `Bain Capital is a multi-asset private investment firm with over $160 billion in assets under management. As a Business System Analyst Co-op focused on Real Estate, I collaborated with my team to analyze, design, and implement technology solutions that enhance Real Estate business processes and drive operational efficiency for internal and external stakeholders.`,
     highlights: [
-      'Developed core computer vision algorithms and initial product prototypes.',
-      "Worked with the team to define the company's vision and product roadmap.",
-      'Collaborated with CEO on fundraising and investor relations.',
+      'Spearheaded finance reporting automation with Power BI dashboards and Power BI paginated reports, improving efficiency 25% and documenting solutions',
+      'Integrated business process automation using Power Automate and Power Apps, optimizing workflows and enhancing operational efficiency',
+      'Resolved 200+ Yardi support tickets, translating technical issues for internal and external business users',
+      'Created and optimized SQL/DAX queries and data models for scalable reporting on large financial datasets',
+      'Acted as a liaison between business users and developers, facilitating requirements gathering and ongoing support',
     ],
   },
   {
-    name: 'Planet',
-    position: 'Missions Intern',
-    url: 'https://planet.com',
-    startDate: '2014-06-01',
-    endDate: '2015-01-01',
+    name: 'Forvis Mazars',
+    position: 'Incoming Analytics Intern',
+    url: 'https://www.forvismazars.us/',
+    startDate: '2026-05-04',
+    endDate: '2026-06-26',
     highlights: [
-      'Developed open source mission control software from scratch in NodeJS.',
-      'Integrated with Google Earth, Cesium, and MATLAB.',
     ],
-  },
-  {
-    name: 'Facebook',
-    position: 'Intern',
-    url: 'https://facebook.com',
-    startDate: '2012-06-01',
-    endDate: '2012-09-01',
-    highlights: [
-      "Developed and optimized Facebook's core news feed algorithms.",
-      'Worked on large-scale data processing and machine learning infrastructure.',
-    ],
-  },
-  {
-    name: 'Startup',
-    position: 'Co-founder',
-    url: '#',
-    startDate: '2012-02-01',
-    endDate: '2013-01-01',
-    summary: 'Started an NFC-based marketing company with a team of four.',
-  },
-  {
-    name: 'UB Nanosatellite Program',
-    position: 'Hardware (Attitude Control) Lead',
-    url: 'https://ubnl.space/',
-    startDate: '2010-10-01',
-    endDate: '2012-06-01',
-    summary: 'Developed and implemented attitude control systems for university satellite project.',
-    highlights: [
-      'Designed Attitude Determination and Control System (ADCS) for satellite.',
-      'Integrated sun sensors, magnetometer, and reaction wheels.',
-      'Developed algorithms for satellite orientation control.',
-    ],
-  },
+  }
 ];
 
 export default work;

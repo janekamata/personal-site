@@ -7,7 +7,7 @@ import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
   description:
-    "Michael D'Angelo is a data scientist, machine learning engineer, and full-stack engineer.",
+    "Jane Kamata is a data enthusiast, information visualization specialist, and part-time software developer.",
 };
 
 export default function HomePage() {
