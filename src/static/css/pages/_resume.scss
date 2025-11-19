@@ -23,6 +23,7 @@
   .experience,
   .skills,
   .courses,
+  .certifications,
   .references {
     .title {
       text-align: center;
@@ -58,6 +59,23 @@
     }
 
     .course-list {
+      text-align: center;
+
+      h4 {
+        white-space: nowrap;
+      }
+    }
+  }
+
+   // Certifications section
+  .certifications {
+    padding-top: 1.6em;
+
+    .title {
+      text-align: center;
+    }
+
+    .certification-list {
       text-align: center;
 
       h4 {
@@ -175,6 +193,43 @@
   }
 
   .course-container a {
+    display: block;
+  }
+}
+
+// Certification styling
+.certifications {
+  .certification-name {
+    display: inline;
+  }
+
+  .certification-organization {
+    display: inline;
+    font-family: _font(family-heading);
+    font-size: 0.7em;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    line-height: 2.5;
+    margin-top: -1em;
+    text-transform: uppercase;
+  }
+
+  ul li {
+    display: inline;
+  }
+}
+
+.certification-dot {
+  display: inline;
+}
+
+// Responsive
+@include breakpoint(small) {
+  .certification-dot {
+    display: none;
+  }
+
+  .certification-container a {
     display: block;
   }
 }

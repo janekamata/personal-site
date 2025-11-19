@@ -23,8 +23,8 @@ const getRows = (certifications: CertificationType[]) =>
     ));
 
 const Certifications: React.FC<CertificationProps> = ({ data }) => (
-  <div className="courses">
-    <div className="link-to" id="courses" />
+  <div className="certifications">
+    <div className="link-to" id="certifications" />
     <div className="title">
       <h3>Certifications</h3>
     </div>

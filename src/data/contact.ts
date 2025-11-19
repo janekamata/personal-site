@@ -22,7 +22,7 @@ const data: ContactItem[] = [
     icon: faBarChart,
   },
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/janekamata',
     label: 'Github',
     icon: faGithub,
   },

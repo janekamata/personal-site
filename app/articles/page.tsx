@@ -6,7 +6,7 @@ import Link from 'next/link';
 import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
-  title: 'Stats',
+  title: 'Articles',
   description: "Articles about data visualization, Tableau, Microsoft Power BI, and other data analytics tools (Python, Excel, Alteryx) and practices by Jane Kamata and mldangelo.com",
 };
 

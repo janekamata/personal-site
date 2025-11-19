@@ -8,14 +8,14 @@ interface CertificationProps {
 }
 
 const Certification: React.FC<CertificationProps> = ({ data, last = false }) => (
-  <li className="cert-container">
+  <li className="certification-container">
     <a href={data.link}>
-      <h4 className="cert-name">{data.title}:</h4>
-      <p className="cert-org">{data.organization}</p>
+      <h4 className="certification-name">{data.title}:</h4>
+      <p className="certification-organization">{data.organization}</p>
     </a>
     {!last && (
-      <div className="cert-dot">
-        <p className="cert-name"> &#8226;</p>
+      <div className="certification-dot">
+        <p className="certification-name"> &#8226;</p>
       </div>
     )}
   </li>
