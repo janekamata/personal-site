@@ -68,14 +68,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - [Hawley Moore](http://hawleymoore.com/)
 - [Holman Gao](https://golmansax.com/)
 - [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
 
 If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
 `;
