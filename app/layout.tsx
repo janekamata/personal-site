@@ -64,11 +64,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'Jane Kamata' }],
   creator: 'Jane Kamata',
-  metadataBase: new URL('https://mldangelo.com'),
+  metadataBase: new URL('https://janekamata.github.io/personal-site/'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://mldangelo.com',
+    url: 'https://janekamata.github.io/personal-site/',
     siteName: 'Jane Kamata',
     title: 'Jane Kamata',
     description:

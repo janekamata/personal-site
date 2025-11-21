@@ -34,7 +34,7 @@ export default function HomePage() {
         </p>
         <p>
           {' '}
-          Source available <a href="https://github.com/mldangelo/personal-site">here</a>.
+          Source available <a href="https://janekamata.github.io/personal-site/">here</a>.
         </p>
       </article>
     </PageWrapper>
