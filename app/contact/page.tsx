@@ -10,7 +10,7 @@ import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: "Contact Jane Kamata via LinkedIn",
+  description: 'Contact Jane Kamata via LinkedIn',
 };
 
 export default function ContactPage() {

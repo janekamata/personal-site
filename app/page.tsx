@@ -7,7 +7,7 @@ import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
   description:
-    "Jane Kamata is a data enthusiast, information visualization specialist, and part-time software developer.",
+    'Jane Kamata is a data enthusiast, information visualization specialist, and part-time software developer.',
 };
 
 export default function HomePage() {

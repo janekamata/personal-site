@@ -28,11 +28,15 @@ const SideBar: React.FC = () => {
       <section className="blurb">
         <h2>About</h2>
         <p>
-          Hi, I&apos;m Jane. I am a <a href="https://www.northeastern.edu/">Northeastern University</a>{' '}
-          student graduating Spring 2026. Previously, I was a Business Systems Analyst co-op at{' '}
-          <a href="https://baincapital.com">Bain Capital</a>. I am also an incoming summer Analytics intern at{' '}
-          <a href="https://www.forvismazars.us/">Forvis Mazars</a>, and a two-time{' '}
-          <a href="https://www.tableau.com/community/community-leaders/ambassadors">Tableau Ambassador and active Tableau community member</a>.
+          Hi, I&apos;m Jane. I am a{' '}
+          <a href="https://www.northeastern.edu/">Northeastern University</a> student graduating
+          Spring 2026. Previously, I was a Business Systems Analyst co-op at{' '}
+          <a href="https://baincapital.com">Bain Capital</a>. I am also an incoming summer Analytics
+          intern at <a href="https://www.forvismazars.us/">Forvis Mazars</a>, and a two-time{' '}
+          <a href="https://www.tableau.com/community/community-leaders/ambassadors">
+            Tableau Ambassador and active Tableau community member
+          </a>
+          .
         </p>
         <ul className="actions">
           <li>

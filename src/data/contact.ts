@@ -1,8 +1,8 @@
 import { IconDefinition } from '@fortawesome/fontawesome-svg-core';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faBarChart } from '@fortawesome/free-regular-svg-icons/faBarChart';
+import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 export interface ContactItem {
   link: string;

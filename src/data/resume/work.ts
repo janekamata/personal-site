@@ -63,7 +63,7 @@ const work: Position[] = [
       'Designed ad-hoc interactive Tableau dashboards integrating sentiment and geospatial analysis for deal diligence',
       'Optimized Power BI model reliability by 40% by enhancing data pipelines with API and data lake integrations',
       'Presented Tableau Cloud evaluation and demo to leadership, comparing Pulse/Agent, Server, and AI capabilities',
-      '(Continued responsibilities from 2024 co-op with expanded scope and leadership roles)'
+      '(Continued responsibilities from 2024 co-op with expanded scope and leadership roles)',
     ],
   },
   {
@@ -87,9 +87,8 @@ const work: Position[] = [
     url: 'https://www.forvismazars.us/',
     startDate: '2026-05-04',
     endDate: '2026-06-26',
-    highlights: [
-    ],
-  }
+    highlights: [],
+  },
 ];
 
 export default work;

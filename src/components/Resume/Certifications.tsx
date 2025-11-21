@@ -19,7 +19,11 @@ const getRows = (certifications: CertificationType[]) =>
       return ret;
     })
     .map((certification, idx) => (
-      <Certification data={certification} key={certification.title} last={idx === certifications.length - 1} />
+      <Certification
+        data={certification}
+        key={certification.title}
+        last={idx === certifications.length - 1}
+      />
     ));
 
 const Certifications: React.FC<CertificationProps> = ({ data }) => (

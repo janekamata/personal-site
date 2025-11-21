@@ -23,13 +23,13 @@ const raleway = Raleway({
 
 export const metadata: Metadata = {
   title: {
-    default: "Jane Kamata",
-    template: "%s | Jane Kamata",
+    default: 'Jane Kamata',
+    template: '%s | Jane Kamata',
   },
   description:
     "Jane Kamata's personal website. Data enthusiast, information visualization specialist, and part-time software developer.",
   keywords: [
-    "Jane Kamata",
+    'Jane Kamata',
     'data visualization',
     'data science',
     'data analyst',
@@ -62,22 +62,23 @@ export const metadata: Metadata = {
     'data visualization blog',
     'data visualization portfolio',
   ],
-  authors: [{ name: "Jane Kamata" }],
-  creator: "Jane Kamata",
+  authors: [{ name: 'Jane Kamata' }],
+  creator: 'Jane Kamata',
   metadataBase: new URL('https://mldangelo.com'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://mldangelo.com',
-    siteName: "Jane Kamata",
-    title: "Jane Kamata",
-    description: 'Data enthusiast, information visualization specialist, and part-time software developer.',
+    siteName: 'Jane Kamata',
+    title: 'Jane Kamata',
+    description:
+      'Data enthusiast, information visualization specialist, and part-time software developer.',
     images: [
       {
         url: '/images/me.jpg',
         width: 1200,
         height: 630,
-        alt: "Jane Kamata",
+        alt: 'Jane Kamata',
       },
     ],
   },
