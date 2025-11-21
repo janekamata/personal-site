@@ -34,17 +34,10 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- I am originally from San Antonio, TX. I have since lived in Boston, MA for college.
+- I spent one month in London through a study abroad program during college.
+- I've spent significant time in the American midwest visiting family.
+- My favorite country is Japan, mostly because I get to see my family there, but also becaues I love the culture, food, and nature.
 
 # Fun Facts
 
