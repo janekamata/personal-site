@@ -16,9 +16,7 @@ export default function HomePage() {
       <article className="post" id="index">
         <header>
           <div className="title">
-            <h2>
-              <Link href="/about">About this site</Link>
-            </h2>
+            <h2>About this site</h2>
           </div>
         </header>
         <p>

@@ -70,7 +70,6 @@ const EmailLink: React.FC<EmailLinkProps> = ({ loopMessage = false }) => {
   return (
     <div
       className="inline-container"
-      style={validateText(message) ? {} : { color: 'red' }}
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => idx < messages.length && setIsActive(true)}
     >

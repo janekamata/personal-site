@@ -19,9 +19,7 @@ export default function ProjectsPage() {
       <article className="post" id="projects">
         <header>
           <div className="title">
-            <h2>
-              <Link href="/projects">Projects</Link>
-            </h2>
+            <h2>Projects</h2>
             <p>A selection of projects</p>
           </div>
         </header>

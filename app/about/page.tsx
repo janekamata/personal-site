@@ -18,9 +18,7 @@ export default function AboutPage() {
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2>
-              <Link href="/about">About Me</Link>
-            </h2>
+            <h2>About Me</h2>
             <p>(in about {count(aboutMarkdown)} words)</p>
           </div>
         </header>

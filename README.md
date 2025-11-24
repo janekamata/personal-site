@@ -16,27 +16,20 @@ Ensure you have [node](https://nodejs.org/) >= v20. Optionally, use [nvm](https:
 
 ## 🚀 Setup and Running
 
-1. Clone the repository:
-
-   ```bash
-   git clone git://github.com/mldangelo/personal-site.git
-   cd personal-site
-   ```
-
-2. (Optional) Ensure you're on Node v20 or higher:
+1. (Optional) Ensure you're on Node v20 or higher:
 
    ```bash
    nvm install
    node --version
    ```
 
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm run dev
