@@ -12,7 +12,7 @@ const data: Project[] = [
     title: 'Boston Climate Action Network',
     subtitle: 'Code4Community Client Project',
     link: 'https://github.com/Code-4-Community/bcan',
-    image: 'images/projects/1763088147115.jpg',
+    image: 'images/projects/bcan2.png',
     date: '2025-12-04',
     desc:
       'Collaborate with a nonprofit client to deliver a tailored grant analytics dashboard for tracking grant win rate and costs using  Recharts with React, NestJS, AWS DynamoDB, and Jest. ' +

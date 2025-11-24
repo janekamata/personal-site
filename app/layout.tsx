@@ -75,7 +75,7 @@ export const metadata: Metadata = {
       'Data enthusiast, information visualization specialist, and part-time software developer.',
     images: [
       {
-        url: '/images/me.png',
+        url: 'images/me.png',
         width: 1200,
         height: 630,
         alt: 'Jane Kamata',
