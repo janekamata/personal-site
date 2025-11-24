@@ -13,6 +13,14 @@ export interface Position {
 
 const work: Position[] = [
   {
+    name: 'Forvis Mazars',
+    position: 'Incoming Analytics Intern',
+    url: 'https://www.forvismazars.us/',
+    startDate: '2026-05-04',
+    endDate: '2026-06-26',
+    highlights: [],
+  },
+  {
     name: 'Code4Community',
     position: 'Software Developer',
     url: 'https://www.c4cneu.com/',
@@ -35,19 +43,6 @@ const work: Position[] = [
       'Support 150+ students in using Tableau, Python, SQL, and Excel to build analytics models and data visualizations',
       'Deliver lectures, hands-on tutorials, and one-on-one sessions, helping students create insight-driven dashboards',
       'Troubleshoot data pipeline and visualization issues, reinforcing best practices in BI and problem-solving skills',
-    ],
-  },
-  {
-    name: 'Northeastern University',
-    position: 'Learning Experience Design Assistant',
-    url: 'https://www.northeastern.edu/',
-    startDate: '2022-09-03',
-    endDate: '2023-12-20',
-    summary: `As a Learning Experience Design Assistant at Northeastern University's D'Amore-McKim School of Business Learning Design and Technology Group, I collaborated with faculty members to enhance course materials and develop engaging learning experiences. My role involved applying instructional design principles to create accessible and inclusive content that supports diverse learning needs.`,
-    highlights: [
-      'Transformed course materials into engaging content for Instructure Canvas LMS and Articulate, adhering to Universal Design for Learning (UDL) principles',
-      'Supported Diversity, Equity, and Inclusion (DEI) initiatives through course content accessibility',
-      'Facilitated data entry and collection for support tickets, streamlining operational processes',
     ],
   },
   {
@@ -81,13 +76,19 @@ const work: Position[] = [
       'Acted as a liaison between business users and developers, facilitating requirements gathering and ongoing support',
     ],
   },
+
   {
-    name: 'Forvis Mazars',
-    position: 'Incoming Analytics Intern',
-    url: 'https://www.forvismazars.us/',
-    startDate: '2026-05-04',
-    endDate: '2026-06-26',
-    highlights: [],
+    name: 'Northeastern University',
+    position: 'Learning Experience Design Assistant',
+    url: 'https://www.northeastern.edu/',
+    startDate: '2022-09-03',
+    endDate: '2023-12-20',
+    summary: `As a Learning Experience Design Assistant at Northeastern University's D'Amore-McKim School of Business Learning Design and Technology Group, I collaborated with faculty members to enhance course materials and develop engaging learning experiences. My role involved applying instructional design principles to create accessible and inclusive content that supports diverse learning needs.`,
+    highlights: [
+      'Transformed course materials into engaging content for Instructure Canvas LMS and Articulate, adhering to Universal Design for Learning (UDL) principles',
+      'Supported Diversity, Equity, and Inclusion (DEI) initiatives through course content accessibility',
+      'Facilitated data entry and collection for support tickets, streamlining operational processes',
+    ],
   },
 ];
 

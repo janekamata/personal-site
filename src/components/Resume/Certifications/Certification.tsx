@@ -15,7 +15,7 @@ const Certification: React.FC<CertificationProps> = ({ data, last = false }) => 
     </a>
     {!last && (
       <div className="certification-dot">
-        <p className="certification-name"> &#8226;</p>
+        <p className="certification-organization"> &#8226;</p>
       </div>
     )}
   </li>

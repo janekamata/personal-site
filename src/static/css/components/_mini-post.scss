@@ -69,6 +69,7 @@
     min-height: 4em;
     position: relative;
     @include vendor('flex-grow', '1');
+    border-bottom: solid 1px _palette(border);
 
     h3 {
       font-size: 0.7em;

@@ -1,8 +1,8 @@
 import { IconDefinition } from '@fortawesome/fontawesome-svg-core';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faBarChart } from '@fortawesome/free-regular-svg-icons/faBarChart';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
+import { faGlobe } from '@fortawesome/free-solid-svg-icons/faGlobe';
 
 export interface ContactItem {
   link: string;
@@ -19,7 +19,7 @@ const data: ContactItem[] = [
   {
     link: 'https://public.tableau.com/app/profile/jane.kamata/vizzes',
     label: 'Tableau Public',
-    icon: faBarChart,
+    icon: faGlobe,
   },
   {
     link: 'https://github.com/janekamata',
