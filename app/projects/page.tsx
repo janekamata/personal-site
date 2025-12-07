@@ -1,7 +1,6 @@
 import React from 'react';
 
 import type { Metadata } from 'next';
-import Link from 'next/link';
 
 import Cell from '@/components/Projects/Cell';
 import data from '@/data/projects';
@@ -20,7 +19,6 @@ export default function ProjectsPage() {
         <header>
           <div className="title">
             <h2>Projects</h2>
-            <p>A selection of projects</p>
           </div>
         </header>
         {data.map((project) => (

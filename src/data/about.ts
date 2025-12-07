@@ -1,12 +1,14 @@
 export const aboutMarkdown = `
 # Intro
 
-Hello, I am a data visualization enthusiast and part-time software developer. In 2024, I won Tableau's Iron Viz: Student Edition for my data visualization about [Japanese animation](https://public.tableau.com/app/profile/jane.kamata/viz/StudioGhibliGlobalForceinAnimationIronVizStudentEdition2024/StudioGhibli). Since then, I've been a two-time [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), seven-time Vizzie Award nominee, and two-time Viz of the Day creator.
+Hello, I'm passionate about analytics storytelling and empowering others to transform data into meaningful visual insights. In my spare time, I enjoy pushing the boundaries of creativity and data. Feel free to check out my [Tableau Public portfolio](https://public.tableau.com/app/profile/jane.kamata/vizzes) portfolio to see my work.
+<br />
+<br />
+In 2024, I won Tableau's Iron Viz: Student Edition for my data visualization about [Japanese animation](https://public.tableau.com/app/profile/jane.kamata/viz/StudioGhibliGlobalForceinAnimationIronVizStudentEdition2024/StudioGhibli). Since then, I've been a two-time [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), seven-time Vizzie Award nominee, and two-time Viz of the Day creator.
 <br />
 <br />
 Currently, I'm completing my undergraduate studies at Northeastern University, where I'm studying Computer Science and Business Administration with a concentration in Business Analytics. While at Northeastern, I've completed two co-ops at [Bain Capital](https://www.baincapital.com/), creating data-driven insights for private market investments and real estate. In summer 2025, I will be interning at [Forvis Mazars](https://www.forvismazars.us/) on their Analytics consulting team.  
-<br />
-I'm passionate about analytics storytelling and empowering others to transform data into meaningful visual insights. In my spare time, I enjoy pushing the boundaries of creativity and data. Feel free to check out my [Tableau Public portfolio](https://public.tableau.com/app/profile/jane.kamata/vizzes) portfolio to see my work.
+
 
 
 

@@ -60,10 +60,10 @@
 .skillbar {
   position: relative;
   display: block;
-  margin-bottom: _size(element-margin) * 0.75;
+  margin-bottom: _size(element-margin) * 0.4;
   width: 100%;
   background: _palette(border-bg);
-  height: 2.5em;
+  height: 2em;
   border-radius: 0;
   overflow: hidden;
   transition: opacity _duration(transition) ease;

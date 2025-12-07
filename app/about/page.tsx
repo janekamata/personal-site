@@ -2,8 +2,6 @@
 
 import React from 'react';
 
-import Link from 'next/link';
-
 import Markdown from 'markdown-to-jsx';
 
 import { aboutMarkdown } from '@/data/about';

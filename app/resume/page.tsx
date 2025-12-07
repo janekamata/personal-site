@@ -2,6 +2,9 @@ import React from 'react';
 
 import type { Metadata } from 'next';
 
+import { faDownload } from '@fortawesome/free-solid-svg-icons/faDownload';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import Certifications from '@/components/Resume/Certifications';
 import Courses from '@/components/Resume/Courses';
 import Education from '@/components/Resume/Education';
@@ -35,6 +38,11 @@ export default function ResumePage() {
       <header>
         <div className="title">
           <h2>Resume</h2>
+          <a href="/files/resume.pdf" download="Jane Kamata Resume">
+            <p>
+              <FontAwesomeIcon icon={faDownload} /> Download PDF
+            </p>
+          </a>
           <div className="link-container">
             {sections.map((section) => (
               <h4 key={section.id}>
