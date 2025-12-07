@@ -3,10 +3,11 @@ import React from 'react';
 import type { Metadata } from 'next';
 import { Raleway, Source_Sans_3 } from 'next/font/google';
 
+import { config } from '@fortawesome/fontawesome-svg-core';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+
 import GoogleAnalytics from '@/components/Template/GoogleAnalytics';
 import Navigation from '@/components/Template/Navigation';
-import '@fortawesome/fontawesome-svg-core/styles.css';
-import { config } from '@fortawesome/fontawesome-svg-core';
 import '@/static/css/main.scss';
 
 config.autoAddCss = false;
