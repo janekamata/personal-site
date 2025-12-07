@@ -41,9 +41,9 @@ const SideBar: React.FC = () => {
           <a href="https://www.tableau.com/community/community-leaders/ambassadors">
             Tableau Ambassador
           </a>
-          , and active Tableau community member. Previously, I worked as a Business Systems Analyst co-op at{' '}
-          <a href="https://baincapital.com">Bain Capital</a>. I will begin as an Analytics intern at{' '}
-          <a href="https://www.forvismazars.us/">Forvis Mazars</a> this summer.
+          , and active Tableau community member. Previously, I worked as a Business Systems Analyst
+          co-op at <a href="https://baincapital.com">Bain Capital</a>. I will begin as an Analytics
+          intern at <a href="https://www.forvismazars.us/">Forvis Mazars</a> this summer.
         </p>
         <ul className="actions">
           <li>
