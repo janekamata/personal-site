@@ -1,7 +1,7 @@
 export const aboutMarkdown = `
 # Intro
 
-Hello, I'm passionate about analytics storytelling and empowering others to transform data into meaningful visual insights. In my spare time, I enjoy pushing the boundaries of creativity and data. Feel free to check out my [Tableau Public portfolio](https://public.tableau.com/app/profile/jane.kamata/vizzes) portfolio to see my work.
+Hello, I'm passionate about analytics storytelling and empowering others to transform data into meaningful visual insights. In my spare time, I enjoy pushing the boundaries of creativity and data. Feel free to check out my [Tableau Public portfolio](https://public.tableau.com/app/profile/jane.kamata/vizzes) to see my work.
 <br />
 <br />
 In 2024, I won Tableau's Iron Viz: Student Edition for my data visualization about [Japanese animation](https://public.tableau.com/app/profile/jane.kamata/viz/StudioGhibliGlobalForceinAnimationIronVizStudentEdition2024/StudioGhibli). Since then, I've been a two-time [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), seven-time Vizzie Award nominee, and two-time Viz of the Day creator.
