@@ -5,7 +5,11 @@ import { Raleway, Source_Sans_3 } from 'next/font/google';
 
 import GoogleAnalytics from '@/components/Template/GoogleAnalytics';
 import Navigation from '@/components/Template/Navigation';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+import { config } from '@fortawesome/fontawesome-svg-core';
 import '@/static/css/main.scss';
+
+config.autoAddCss = false;
 
 const sourceSans = Source_Sans_3({
   weight: ['400', '700'],
