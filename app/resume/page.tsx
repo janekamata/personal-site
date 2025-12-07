@@ -38,7 +38,7 @@ export default function ResumePage() {
       <header>
         <div className="title">
           <h2>Resume</h2>
-          <a href="/files/resume.pdf" download="Jane Kamata Resume">
+          <a href="files/resume.pdf" download="Jane Kamata Resume">
             <p>
               <FontAwesomeIcon icon={faDownload} /> Download PDF
             </p>
