@@ -40,7 +40,7 @@ export default function ResumePage() {
           <h2>Resume</h2>
           <a href="files/resume.pdf" download="Jane Kamata Resume">
             <p>
-              <FontAwesomeIcon size={'lg'} icon={faDownload} /> Download PDF
+              <FontAwesomeIcon size={'lg'} icon={faDownload} /> Download PDF Resume
             </p>
           </a>
           <div className="link-container">
